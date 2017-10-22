@@ -11,6 +11,7 @@
 
 
 
+
   <!-- https://mvnrepository.com/artifact/jstl/jstl -->
 <dependency>
     <groupId>jstl</groupId>
@@ -18,13 +19,6 @@
     <version>1.2</version>
 </dependency>
 
-<dependency>
-<groupId>com.niit</groupId>
-  <artifactId>midastouchbackend</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-
-
-</dependency>
 
 <!--  ==================== spring dependencies========================-->
 
